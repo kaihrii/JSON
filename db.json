@@ -6,6 +6,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "purposeOfBooking": "typicode",
+    "endDate": "14/01/2020",
+    "startDate": "15/01/2020"
   }
 }
